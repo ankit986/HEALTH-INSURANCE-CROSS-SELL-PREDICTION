@@ -10,18 +10,18 @@ Predicting whether a customer would be interested in buying Vehicle Insurance so
   * [Data Description](#data-description)
   * [Project Outline](#project-outline)
     - 1 [Data Wrangling](#data-wrangling)
-    - 2 [Standardization](#standardization)
+    - 2 [Normalization](#normalization)
     - 3 [EDA](#eda)
-    - 4 [Text Pre-processing](#text-pre-processing)
-    - 5 [Encoding categorical values](#encoding-categorical-values)
-    - 6 [Feature Selection](#feature-selection)
-    - 7 [Model Fitting](#model-fitting)
+    - 4 [ Encoding categorical values](#encoding-categorical-values)
+    - 5 [Feature Selection](#feature-selection)
+    - 6 [Model Fitting](#model-fitting)
     - 8 [Hyper-parameter Tuning](#hyper-parameter-tuning)
     - 9 [Metrics Evaluation](#metrics-evaluation)
-  * [Conclusion](#run)
+  * [Conclusion](#conclusion)
   * [Reference](#reference)
 
 ---
+
 
 
 # Abstract
